@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+}
+h1 {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 300%;
+    text-align: right;  
+}
+h2 {
+    font-size: 120%;
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    text-align: right;
+    word-wrap: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    text-justify: inter-word;
+}
+.content {
+    width: 100%;
+}
+.left {
+    float: left;
+    width: 45%;
+    margin-left: 5%;
+}
+.right {
+    float: right;
+    width: 45%;
+    margin-right: 5%;
+}
+.image1 {
+    width: 800px;
+    height: 500px;
+}
+.image2 {
+    float: right;
+    width: 250px;
+    height: 150px;
+    margin-right: 60%;
+}
